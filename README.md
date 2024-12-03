@@ -1,5 +1,4 @@
-# pythonapp
-python app with docker files
+# python app with docker files
 python3 --version
 sudo yum install python3-pip
 sudo pip3 install flask
