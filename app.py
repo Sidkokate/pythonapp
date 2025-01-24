@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_geek():
-    return '<h1>Python App Hosting</h1>'
+    return 'Python App Hosting'
 @app.route('/hi')
 def hell():
     return '<h1>Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii from Flask & Docker</h1>'
